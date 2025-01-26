@@ -1,4 +1,16 @@
 {
   "item.tutorialmod.alexandrite": "Alexandrite Gem",
-  "item.tutorialmod.raw_alexandrite": "Raw Alexandrite"
+  "item.tutorialmod.raw_alexandrite": "Raw Alexandrite",
+  "item.tutorialmod.alexandrite_block": "Alexandrite Block",
+  "item.tutorialmod.raw_alexandrite_block": "Raw Alexandrite Block",
+  "item.tutorialmod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+  "item.tutorialmod.alexandrite_ore": "Alexandrite Ore",
+
+  "block.tutorialmod.alexandrite_block": "Alexandrite Block",
+  "block.tutorialmod.raw_alexandrite_block": "Raw Alexandrite Block",
+  "block.tutorialmod.alexandrite_ore": "Alexandrite Ore",
+  "block.tutorialmod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+
+  "creativetab.tutorialmod.alexandrite_items": "Alexandrite Items",
+  "creativetab.tutorialmod.alexandrite_blocks": "Alexandrite Blocks"
 }
